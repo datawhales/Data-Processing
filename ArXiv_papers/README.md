@@ -3,7 +3,7 @@ ArXiv papers의 reference가 담긴 문장과 그 문장에 해당하는 referen
 
 ## Quick Start
 You can quickly run the code or notebook by following steps:
-- mkdir `data` directory then cd to `data` directory and download the source file `arXiv_src_2101_001.tar`
+- mkdir `data` directory then cd to `data` directory and download the source file [`arXiv_src_2101_001.tar`](https://drive.google.com/file/d/1YQkFUfCmI2dfa4_fX8hcU8_F6iMO8f41/view?usp=sharing)
 - unzip the data by running the following script
 ```bash
 tar -xvf arXiv_src_2101_001.tar
